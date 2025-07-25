@@ -64,6 +64,6 @@ python analysis.py
 ![Genesis Radar](charts/genesis_radar.png)
 
 
-### 📌 Author
+### ✅ Author
 
 Made by Serhii — QA Engineer & Data Enthusiast GitHub
