@@ -1,0 +1,33 @@
+
+---
+
+## 📄 `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Charts and outputs
+charts/*.png
+*.csv
+
+# IDE
+.vscode/
+.idea/
