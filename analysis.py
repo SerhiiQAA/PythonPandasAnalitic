@@ -43,6 +43,7 @@ sns.scatterplot(x="Surveys", y="Overall", hue="Group", data=df, palette="Set2", 
 plt.title("📈 Surveys vs Overall Rating")
 plt.xlabel("Number of Surveys")
 plt.ylabel("Overall Rating")
+plt.grid(True)
 plt.tight_layout()
 plt.savefig("charts/surveys_vs_rating.png")
 plt.close()
