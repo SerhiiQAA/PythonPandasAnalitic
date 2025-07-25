@@ -49,6 +49,21 @@ python analysis.py
 - Seaborn
 - NumPy
 
+## 📈 Sample Visualizations
+
+### 🏆 Top 10 IT Employers by Overall Rating
+![Top 10 Overall](charts/top10_overall.png)
+
+### 📊 Correlation Between Rating Categories
+![Correlation Heatmap](charts/category_correlation.png)
+
+### 📈 Surveys vs Overall Rating
+![Surveys vs Rating](charts/surveys_vs_rating.png)
+
+### 📌 Genesis Rating Profile
+![Genesis Radar](charts/genesis_radar.png)
+
+
 ### 📌 Author
 
 Made by Serhii — QA Engineer & Data Enthusiast GitHub
