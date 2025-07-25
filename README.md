@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-A data analysis project based on the [DOU.ua IT employer ratings](https://dou.ua/lenta/articles/dou-rejting-2023/).  
+A data analysis project based on the DOU.ua.  
 Visualizes trends, correlations, and standout companies in the Ukrainian tech market.
 
 ## 📊 Features
